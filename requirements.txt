@@ -1,0 +1,15 @@
+numpy
+matplotlib
+torch>2.3
+lightning
+torchmetrics
+torchvision
+torch-geometric
+kornia
+scipy
+scikit-image
+rich
+dill
+pandas
+tqdm
+scikit-learn
